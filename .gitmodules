@@ -1,0 +1,9 @@
+[submodule "evan-admin-api"]
+	path = evan-admin-api
+	url = git@github.com:XiangBo-EvanZuo/evan-admin-api.git
+[submodule "evan-admin-web"]
+	path = evan-admin-web
+	url = git@github.com:XiangBo-EvanZuo/evan-admin-web.git
+[submodule "evan-admin-wise"]
+	path = evan-admin-wise
+	url = git@github.com:XiangBo-EvanZuo/evan-admin-wise.git
